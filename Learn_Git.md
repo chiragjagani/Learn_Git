@@ -36,7 +36,7 @@ it shows the status of which changes and modifications happen.
 Where you can hold your change before committing the changes. 
 
 #### git commit -m <“message of commit”>
-To commit a file that is on the staging area -m for to write a meaningful full message in which an update is done in the file.
+To commit a file that is on the staging area -m for to write a meaningful message in which an update is done in the file.
 
 #### git checkout <hashcode or branch name>
 To go back to the previous commit and switch to branches.
