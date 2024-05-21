@@ -1,6 +1,3 @@
-Absolutely, here's the combined Markdown file incorporating the Git learning repository description and cheat sheet:
-
-```markdown
 ## Git Learning Repository
 
 Welcome to the Git Learning Repository! This repository is designed to help you learn and practice Git, a powerful version control system used for tracking changes in your projects.
