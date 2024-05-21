@@ -2,25 +2,6 @@
 
 Welcome to the Git Learning Repository! This repository is designed to help you learn and practice Git, a powerful version control system used for tracking changes in your projects.
 
-### Contents
-
-* **README.md**: Introduction and overview of the repository (you are reading it now!).
-* **git-cheat-sheet.md**: A handy cheat sheet containing essential Git commands and their descriptions for quick reference.
-* **practice-branch/**: Directory with example branches for practicing branching and merging.
-* **example-project/**: A sample project to experiment with Git commands.
-
-### How to Use This Repository
-
-1. **Clone the Repository**: Start by cloning this repository to your local machine.
-
-   ```sh
-   git clone https://github.com/your-username/git-learning-repo.git
-   ```
-
-2. **Explore the Files**: Check out the `git-cheat-sheet.md` for a list of common Git commands and their usage.
-3. **Practice**: Use the provided example projects and branches to practice various Git commands and workflows.
-4. **Contribute**: Feel free to contribute to this repository by adding new examples, improving documentation, or suggesting new commands for the cheat sheet.
-
 ## Git Cheat Sheet
 
 ### Basic Commands
